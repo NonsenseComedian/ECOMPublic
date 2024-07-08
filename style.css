@@ -1,0 +1,40 @@
+main{
+    flex: 1;
+    padding: 20px;
+
+}
+
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.products{
+    width: 250px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.product img{
+    width: 100px;
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.product h2{
+    color: black;
+    margin-top: 10px;
+}
+
+.product2{
+    width: 250px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.product2 img{
+    width: 100px;
+    max-height: 200px;
+    object-fit: cover;
+}
